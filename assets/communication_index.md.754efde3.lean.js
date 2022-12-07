@@ -1,1 +1,0 @@
-import{_ as t,c as e,o,a as n}from"./app.fcc6c50e.js";const m=JSON.parse('{"title":"\u901A\u4FE1","description":"","frontmatter":{},"headers":[],"relativePath":"communication/index.md"}'),s={name:"communication/index.md"},c=n("",5),a=[c];function i(r,_,l,d,T,p){return o(),e("div",null,a)}const u=t(s,[["render",i]]);export{m as __pageData,u as default};
