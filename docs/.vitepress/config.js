@@ -51,12 +51,12 @@ const sidebar = {
  * @type {import('vitepress').UserConfig}
  */
 const config = {
-  title: 'Onebot 11 标准',
+  title: 'OneBot 11 标准',
   description: '通用聊天机器人应用接口标准',
   base: '/onebot_v11_vitepress',
 
   themeConfig: {
-    siteTitle: 'Onebot 11 标准',
+    siteTitle: 'OneBot 11 标准',
     logo: {
       light: '/onebot-black.svg',
       dark: '/onebot.svg',

@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: Onebot 11 标准
+  name: OneBot 11 标准
   tagline: 通用聊天机器人应用接口标准
 
   actions:
